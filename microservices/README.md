@@ -14,3 +14,4 @@ Use ApplicationClaim to add new microservices:
 - (Services will be listed here as they are added)
 - inventory-service (python/fastapi)
 - inventory-service (python/fastapi)
+- inventory-service (python/fastapi)
